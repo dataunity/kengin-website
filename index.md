@@ -19,3 +19,8 @@ Each language has it's own strengths, but we chose Rust because:
 - it supports many targets (e.g. WASM)
 - it has a great package manager (Cargo) which helps with a loosely coupled project
 - it's a well designed language with a great community
+
+# When can I use Kengin
+Kengin is undergoing development. The initial focus is on creating an incrediably efficient underlying data flow.
+
+We anticipate the initial beta release to go public in Autumn 2021. Please check back often for updates!
