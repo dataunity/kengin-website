@@ -3,6 +3,8 @@ Kengin is a data-driven, distributed game engine. It's primary use case is highl
 
 It's primary language is Rust.
 
+![Rust - Ferris the crab](rustacean-flat-happy.png)
+
 # Why use Kengin?
 The focus of Kengin is optimising the data flow across the whole game engine.
 
