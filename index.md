@@ -23,6 +23,6 @@ Each language has it's own strengths, but we chose Rust because:
 - it's a well designed language with a great community
 
 # When can I use Kengin
-Kengin is undergoing development. The initial focus is on creating an incrediably efficient underlying data flow.
+We are hard at work preparing the initial release of Kengin. To start with, the focus is on creating an incrediably efficient underlying data flow which will underpin the rest of the engine.
 
 We anticipate the initial beta release to go public in Autumn 2021. Please check back often for updates!
