@@ -22,7 +22,7 @@ Each language has it's own strengths, but we chose Rust because:
 - it has a great package manager (Cargo) which helps with a loosely coupled project
 - it's a well designed language with a great community
 
-# When can I use Kengin
-We are hard at work preparing the initial release of Kengin. To start with, the focus is on creating an incrediably efficient underlying data flow which will underpin the rest of the engine.
+# When can I use Kengin?
+We are hard at work preparing the initial release of Kengin. The current focus is on creating an incrediably efficient underlying data flow which will underpin the rest of the engine.
 
 We anticipate the initial beta release to go public in Autumn 2021. Please check back often for updates!
