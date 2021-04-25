@@ -1,4 +1,3 @@
-# Kengin
 Kengin is a data-driven, distributed game engine. It's primary use case is highly connected worlds (e.g. metaverse and large multi-player worlds)
 
 It's primary language is Rust, but other languages can be used in the processing pipeline.
